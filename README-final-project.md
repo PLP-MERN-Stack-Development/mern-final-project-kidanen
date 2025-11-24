@@ -92,3 +92,4 @@ Contributions are what make the open-source community such an amazing place to l
 Email:kidanenegash1994@gmail.com
 Kidane Negash - [GitHub](https://github.com/kidanen)
 Project Link: [https://github.com/kidanen/Final_Project_Link.git](https://github.com/kidanen/Final_Project_Link.git)
+Deployed: [https://final-project-link-oekb.vercel.app/register] (https://final-project-link-oekb.vercel.app/register)
